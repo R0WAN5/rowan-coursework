@@ -1,0 +1,87 @@
+p1 {
+    font-size: 25px;
+}
+
+p2 {
+    font-size: 15px;
+    font-weight: bolder;
+    color: white;
+}
+
+p3 {
+    font-size: 15px;
+    font-weight: bolder;
+    text-align: right;
+}
+
+p4 {
+    font-size: 15px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+p5 {
+  font-size: 18px;
+  font-weight: bolder;
+  color: white;
+}
+
+h3 {
+    color: white!important;
+    text-align: center!important;
+}
+
+h4 {
+    text-decoration: underline;
+    color: white!important;
+}
+
+/* Nav Bar styling Start */
+ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: center;
+}
+
+li a {
+      display:block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none!important;
+}
+
+li a:hover {
+      background-color: #111;
+}
+/* Nav Bar styling End */
+
+/* Some Bootstrap styles Start */
+.jumbotron {
+      background-color: #30C5FF!important;
+}
+
+
+.col-sm-3 {
+      padding-bottom: 85px;
+}
+
+
+.icons {
+      text-align: center;
+}
+
+button {
+      margin: auto;
+      display: block;
+}
+/* Bootsteap Syles End */
+
+textarea.form-control{
+    height:100px;
+}
