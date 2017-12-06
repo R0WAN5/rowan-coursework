@@ -61,7 +61,7 @@ li a:hover {
 }
 /* Nav Bar styling End */
 
-/* Some Bootstrap styles Start */
+
 .jumbotron {
       background-color: #30C5FF!important;
 }
@@ -80,7 +80,7 @@ button {
       margin: auto;
       display: block;
 }
-/* Bootsteap Syles End */
+
 
 textarea.form-control{
     height:100px;
